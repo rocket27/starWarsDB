@@ -1,0 +1,38 @@
+.header {
+    padding: 24px;
+    align-items: center;
+}
+
+.header ul {
+    margin: 0;
+}
+
+.header ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0 24px;
+    border-radius: 3px;
+}
+
+.header ul li button:hover {
+    color: white;
+}
+
+.header button {
+    background-color: transparent;
+    color: #00bc8c;
+    border: none;
+}
+
+.header h3 {
+    margin: 0;
+}
+
+
+.header h3 button {
+    color: white;
+}
+
+.header h3 button:hover {
+    color: #00bc8c;
+}

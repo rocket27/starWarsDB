@@ -1,0 +1,19 @@
+.app {
+    overflow: hidden;
+    padding-bottom: 24px;
+}
+
+.app-content {
+    display: flex;
+    align-items: flex-start;
+    padding: 0 24px;
+}
+
+.app-content-column--left {
+    flex-shrink: 0;
+    margin-right: 24px;
+}
+
+.app-content-column--right {
+    flex-grow: 1;
+}
